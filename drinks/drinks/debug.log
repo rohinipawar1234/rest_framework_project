@@ -1,0 +1,103 @@
+INFO 2024-06-06 10:18:16,959 autoreload 32452 132913016725504-Watching for file changes with StatReloader
+INFO 2024-06-06 10:18:40,200 autoreload 32452 132913016725504-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks/settings.py changed, reloading.
+INFO 2024-06-06 10:18:40,981 autoreload 32615 130767929016320-Watching for file changes with StatReloader
+INFO 2024-06-06 10:18:42,443 autoreload 32615 130767929016320-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks/settings.py changed, reloading.
+INFO 2024-06-06 10:18:43,091 autoreload 32629 138621024514048-Watching for file changes with StatReloader
+INFO 2024-06-06 10:18:44,655 autoreload 32629 138621024514048-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks/settings.py changed, reloading.
+INFO 2024-06-06 10:18:45,475 autoreload 32638 136992849678336-Watching for file changes with StatReloader
+INFO 2024-06-06 10:18:53,502 autoreload 32638 136992849678336-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks/settings.py changed, reloading.
+INFO 2024-06-06 10:19:05,876 autoreload 32943 124682970886144-Watching for file changes with StatReloader
+INFO 2024-06-06 10:19:33,106 autoreload 32943 124682970886144-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks/settings.py changed, reloading.
+INFO 2024-06-06 10:19:33,779 autoreload 33143 127011749183488-Watching for file changes with StatReloader
+INFO 2024-06-06 10:19:48,081 autoreload 33143 127011749183488-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks/settings.py changed, reloading.
+INFO 2024-06-06 10:19:48,764 autoreload 33246 126421073723392-Watching for file changes with StatReloader
+WARNING 2024-06-06 10:20:51,669 log 33246 126421009421888-Not Found: /
+WARNING 2024-06-06 10:33:07,438 log 33246 126421009421888-Method Not Allowed: /register/
+WARNING 2024-06-06 10:33:09,204 log 33246 126421009421888-Method Not Allowed: /register/
+WARNING 2024-06-06 10:36:54,386 log 33246 126421001029184-Not Found: /
+INFO 2024-06-06 10:45:28,644 views 33246 126420984247872-Drink with id 20 updated successfully.
+INFO 2024-06-06 10:45:54,748 views 33246 126420984247872-Drink with id 20 deleted successfully.
+WARNING 2024-06-06 10:46:34,192 log 33246 126420984247872-Method Not Allowed: /register/
+WARNING 2024-06-06 10:46:36,123 log 33246 126420984247872-Method Not Allowed: /register/
+INFO 2024-06-06 10:46:52,250 views 33246 126420984247872-User registered successfully.
+WARNING 2024-06-06 10:47:19,516 log 33246 126420984247872-Method Not Allowed: /login/
+WARNING 2024-06-06 10:47:19,992 log 33246 126420984247872-Method Not Allowed: /login/
+WARNING 2024-06-06 10:47:28,076 log 33246 126420984247872-Bad Request: /login/
+WARNING 2024-06-06 10:47:35,600 log 33246 126420984247872-Bad Request: /login/
+INFO 2024-06-06 10:48:14,382 autoreload 33246 126421073723392-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:48:15,308 autoreload 35704 125126051758080-Watching for file changes with StatReloader
+INFO 2024-06-06 10:48:23,345 autoreload 35704 125126051758080-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:48:24,105 autoreload 35746 134507118698496-Watching for file changes with StatReloader
+INFO 2024-06-06 10:48:34,160 autoreload 35746 134507118698496-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:48:34,854 autoreload 35797 123667672252416-Watching for file changes with StatReloader
+WARNING 2024-06-06 10:53:38,776 log 35797 123667540342336-Method Not Allowed: /register/
+WARNING 2024-06-06 10:53:39,968 log 35797 123667540342336-Method Not Allowed: /register/
+INFO 2024-06-06 10:53:54,938 views 35797 123667540342336-User registered successfully.
+WARNING 2024-06-06 10:54:02,975 log 35797 123667540342336-Method Not Allowed: /login/
+WARNING 2024-06-06 10:54:04,131 log 35797 123667540342336-Method Not Allowed: /login/
+INFO 2024-06-06 10:54:14,750 views 35797 123667540342336-sucessfully logged in
+WARNING 2024-06-06 10:57:08,836 views 35797 123667540342336-Drink with id 18 not found.
+WARNING 2024-06-06 10:57:08,898 log 35797 123667540342336-Not Found: /drinks/18/
+WARNING 2024-06-06 10:57:43,074 views 35797 123667132442176-Drink with id 20 not found.
+WARNING 2024-06-06 10:57:43,137 log 35797 123667132442176-Not Found: /drinks/20/
+INFO 2024-06-06 10:58:16,345 autoreload 35797 123667672252416-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:58:17,437 autoreload 36759 125125842591744-Watching for file changes with StatReloader
+INFO 2024-06-06 10:58:18,696 autoreload 36759 125125842591744-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:58:19,378 autoreload 36780 135655759679488-Watching for file changes with StatReloader
+INFO 2024-06-06 10:58:21,732 autoreload 36780 135655759679488-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:58:22,565 autoreload 36785 135208396726272-Watching for file changes with StatReloader
+INFO 2024-06-06 10:58:23,860 autoreload 36785 135208396726272-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:58:24,712 autoreload 36805 137093011709952-Watching for file changes with StatReloader
+INFO 2024-06-06 10:58:27,202 autoreload 36805 137093011709952-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-06 10:58:27,989 autoreload 36823 135681821552640-Watching for file changes with StatReloader
+WARNING 2024-06-06 10:58:35,192 log 36823 135681757304384-Unauthorized: /drinks/
+WARNING 2024-06-06 10:58:35,905 log 36823 135681757304384-Unauthorized: /drinks/
+WARNING 2024-06-06 10:58:36,673 log 36823 135681757304384-Unauthorized: /drinks/
+WARNING 2024-06-06 10:58:49,264 log 36823 135681757304384-Unauthorized: /drinks/
+WARNING 2024-06-06 10:58:51,975 log 36823 135681757304384-Unauthorized: /drinks/
+INFO 2024-06-07 09:39:36,505 autoreload 25161 136701111488512-Watching for file changes with StatReloader
+WARNING 2024-06-07 09:39:42,568 log 25161 136701046150720-Not Found: /
+WARNING 2024-06-07 09:39:42,861 log 25161 136701046150720-Not Found: /favicon.ico
+WARNING 2024-06-07 09:39:59,215 log 25161 136701046150720-Not Found: /drinks/19
+WARNING 2024-06-07 09:40:45,040 log 25161 136700795799104-Method Not Allowed: /register/
+WARNING 2024-06-07 09:40:49,145 log 25161 136700795799104-Method Not Allowed: /register/
+INFO 2024-06-07 09:41:00,814 views 25161 136700795799104-User registered successfully.
+WARNING 2024-06-07 09:41:07,638 log 25161 136700795799104-Method Not Allowed: /login/
+WARNING 2024-06-07 09:41:08,045 log 25161 136700795799104-Method Not Allowed: /login/
+INFO 2024-06-07 09:41:19,412 views 25161 136700795799104-sucessfully logged in
+WARNING 2024-06-07 09:41:55,108 log 25161 136700795799104-Method Not Allowed: /logout/
+WARNING 2024-06-07 09:42:00,183 log 25161 136700795799104-Method Not Allowed: /logout/
+WARNING 2024-06-07 09:42:09,951 log 25161 136700795799104-Method Not Allowed: /logout/
+INFO 2024-06-07 09:42:12,142 views 25161 136700795799104-User abcd logged out successfully.
+WARNING 2024-06-07 09:42:35,974 log 25161 136700795799104-Method Not Allowed: /register/
+WARNING 2024-06-07 09:42:42,361 views 25161 136700795799104-User registration failed: Bad request
+WARNING 2024-06-07 09:42:42,424 log 25161 136700795799104-Bad Request: /register/
+WARNING 2024-06-07 09:42:55,264 log 25161 136700795799104-Method Not Allowed: /login/
+WARNING 2024-06-07 09:43:26,162 log 25161 136701036709440-Unauthorized: /drinks/
+INFO 2024-06-07 09:44:12,379 views 25161 136701036709440-Drink with id 19 updated successfully.
+INFO 2024-06-07 09:44:30,408 autoreload 25161 136701111488512-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:44:32,067 autoreload 26428 137448302088192-Watching for file changes with StatReloader
+INFO 2024-06-07 09:44:35,690 autoreload 26428 137448302088192-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:44:36,643 autoreload 26449 132541385887744-Watching for file changes with StatReloader
+INFO 2024-06-07 09:44:38,094 autoreload 26449 132541385887744-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:44:38,840 autoreload 26471 135713881636864-Watching for file changes with StatReloader
+WARNING 2024-06-07 09:44:52,765 log 26471 135713817089600-Not Found: /drinks/17
+INFO 2024-06-07 09:45:20,176 views 26471 135713817089600-Drink with id 17 updated successfully.
+INFO 2024-06-07 09:46:03,923 autoreload 26471 135713881636864-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:46:04,808 autoreload 26752 124347208536064-Watching for file changes with StatReloader
+WARNING 2024-06-07 09:47:32,673 log 26752 124347144197696-Not Found: /
+WARNING 2024-06-07 09:47:39,898 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:47:56,278 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:47:57,381 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:48:00,620 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:48:09,920 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:49:13,642 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:49:38,042 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:49:39,873 log 26752 124347144197696-Unauthorized: /drinks/
+WARNING 2024-06-07 09:50:07,803 log 26752 124347144197696-Not Found: /drinks/13
+INFO 2024-06-07 09:50:46,207 autoreload 26752 124347208536064-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:50:47,185 autoreload 28158 135005969989632-Watching for file changes with StatReloader
+INFO 2024-06-07 09:51:05,666 autoreload 28158 135005969989632-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:51:06,353 autoreload 28212 138382401359872-Watching for file changes with StatReloader
+INFO 2024-06-07 09:51:07,922 autoreload 28212 138382401359872-/home/rohinip/Pictures/rest_framework_project_practice/drinks/drinks_app/views.py changed, reloading.
+INFO 2024-06-07 09:51:08,565 autoreload 28234 126821960830976-Watching for file changes with StatReloader
